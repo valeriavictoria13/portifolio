@@ -3,7 +3,7 @@
 :root {
     --cor-principal:#100F0F;
     --cor-secundaria:#DE2AB7;
-    --cor-destaque: #7D7979;
+    --cor-destaque: #D875FF;
 }
 
 body {
@@ -13,6 +13,10 @@ body {
 h1,h2,h5 {
     color: var(--cor-secundaria);
     font-family: 700;
+}
+
+.Lead{
+    color: --;
 }
 
 footer a {
