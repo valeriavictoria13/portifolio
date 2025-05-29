@@ -16,7 +16,7 @@ h1,h2,h5 {
 }
 
 .Lead{
-    color: --;
+    color: var(--cor-destaque);
 }
 
 footer a {
